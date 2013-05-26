@@ -48,22 +48,22 @@
 &AD08	&0061 a	&0041 A	&03B1  	&0391  	## Alpha
 &AD09	&0077 w	&0057 W	&03C9  	&03A9  	## Omega
 &AD10	&0071 q	&0051 Q	&03B8  	&0398  	## Theta
-&AD11	&003D =	&2248  	&005F _	&2013  	## 2248:Approximately, 2013:En-dash.
+&AD11	&003D =	&2248  	&005F _	&2013  	## TODO Add approximately sign and en-dash, 2248:Approximately, 2013:En-dash.
 &AD12	&002B +	&2212 -	&00B1 ±	&2020  	## TODO Real minus sign and dagger. 2212:Minus, 2020:Dagger.
 
-# CAPS LOCK row
-&AC01	&	&	&	&
-&AC02	&	&	&	&
-&AC03	&	&	&	&
-&AC04	&	&	&	&
-&AC05	&	&	&	&
-&AC06	&	&	&	&
-&AC07	&	&	&	&
-&AC08	&	&	&	&
-&AC09	&	&	&	&
-&AC10	&	&	&	&
-&AC11	&	&	&	&
-&BKSL	&	&	&	& ## Or is this AC12?
+# CAPS LOCK row	## TODO Add all Greek signs.
+&AC01	&0069 i	&0049 I	&03B9  	&0399  	## Iota
+&AC02	&0073 s	&0053 S	&03C3  	&03A3  	## Sigma (non-final)
+&AC03	&0074 t	&0054 T	&03C4  	&03A4  	## Tau
+&AC04	&0068 h	&0048 H	&03B7  	&0397  	## Eta
+&AC05	&0079 y	&0059 Y	&03C8  	&03A8  	## Psi
+&AC06	&006A j	&004A J	&03BE  	&039E  	## Ksi
+&AC07	&0064 d	&0044 D	&03B4  	&0394  	## Delta
+&AC08	&0065 e	&0045 E	&03B5  	&0395  	## Epsilon
+&AC09	&006E n	&004E N	&03BD  	&039D  	## Nu
+&AC10	&006F o	&004F O	&03BF  	&039F  	## Omicron
+&AC11	&0022 "	&0308 ä	&002D -	&2010  	## 002D:Hyphen-Minus, TODO Add real hyphen sign.
+&BKSL	&003F ?	&0021 !	&0345  	&0327 ç	## Or is this AC12? TODO Add iota subscript, 0345:Iota-subscript, 0327:Cedilla
 
 # SHIFT row
 &LSGT	&	&	&	&
