@@ -79,3 +79,13 @@
 &AB10	&003A :	&003B ;	&2026 …	&2014 —	## 2026:Ellipsis, 2014:Em-dash.
 
 ## TODO Add (double) arrows to (shifted) AltGr + arrow keys.
+# leftarrow &2190 ←
+# rightarrow &2192 →
+# uparrow &2191 ↑
+# downarrow &2193 ↓
+# arrow &2194 ↔
+# double leftarrow &21D0 ⇐
+# double rightarrow &21D2 ⇒
+# double uparrow &21D1 ⇑
+# double downarrow &21D3 ⇓
+# double arrow &21D4 ⇔
