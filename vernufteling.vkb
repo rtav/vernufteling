@@ -37,19 +37,19 @@
 &AE11	&0075 ~	&005E ^	&0303 ã	&0304 ā	## 0303:Tilde, 0304:Macron.
 &AE12	&0024 $	&20AC €	&00A3 £	&00A4  	## TODO Add currency sign.
 
-# TAB row
-&AD01	&	&	&	&
-&AD02	&	&	&	&
-&AD03	&	&	&	&
-&AD04	&	&	&	&
-&AD05	&	&	&	&
-&AD06	&	&	&	&
-&AD07	&	&	&	&
-&AD08	&	&	&	&
-&AD09	&	&	&	&
-&AD10	&	&	&	&
-&AD11	&	&	&	&
-&AD12	&	&	&	&
+# TAB row	## TODO Add all Greek signs.
+&AD01	&006B k	&004B K	&03BA  	&039A  	## Kappa
+&AD02	&0067 g	&0047 G	&03B3  	&0393  	## Gamma
+&AD03	&006C l	&004C L	&03BB  	&039B  	## Lambda
+&AD04	&0066 f	&0046 F	&03C6  	&03A6  	## Phi
+&AD05	&0070 p	&0050 P	&03C0  	&03A0  	## Pi
+&AD06	&0062 b	&0042 B	&03B2  	&0392  	## Beta
+&AD07	&006D m	&004D M	&03BC  	&039C  	## Mu
+&AD08	&0061 a	&0041 A	&03B1  	&0391  	## Alpha
+&AD09	&0077 w	&0057 W	&03C9  	&03A9  	## Omega
+&AD10	&0071 q	&0051 Q	&03B8  	&0398  	## Theta
+&AD11	&003D =	&2248  	&005F _	&2013  	## 2248:Approximately, 2013:En-dash.
+&AD12	&002B +	&2212 -	&00B1 ±	&2020  	## TODO Real minus sign and dagger. 2212:Minus, 2020:Dagger.
 
 # CAPS LOCK row
 &AC01	&	&	&	&
