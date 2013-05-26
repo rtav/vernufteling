@@ -32,7 +32,7 @@
 &AE06	&TODO ™	&0036 6	&201C “	&2018 ‘	## TODO:Trademark
 &AE07	&0023\#	&0037 7	&201D ”	&2019 ’
 &AE08	&0025 %	&0038 8	&00F7 ÷	&221E  	## TODO Add infinity sign.
-&AE09	&0026\&	&0039 9	&00A7 §	&00B6  	## TODO Add paragraph sign.
+&AE09	&0026\&	&0039 9	&00A7 §	&00B6 ¶	## TODO Add paragraph sign.
 &AE10	&002A *	&0030 0	&00D7 ×	&00B0 °
 &AE11	&0075 ~	&005E ^	&0303 ã	&0304 ā	## 0303:Tilde, 0304:Macron.
 &AE12	&0024 $	&20AC €	&00A3 £	&00A4  	## TODO Add currency sign.
@@ -65,17 +65,16 @@
 &AC11	&0022 "	&0308 ä	&002D -	&2010  	## 002D:Hyphen-Minus, TODO Add real hyphen sign.
 &BKSL	&003F ?	&0021 !	&0345  	&0327 ç	## Or is this AC12? TODO Add iota subscript, 0345:Iota-subscript, 0327:Cedilla
 
-# SHIFT row
-&LSGT	&	&	&	&
-&AB01	&	&	&	&
-&AB02	&	&	&	&
-&AB03	&	&	&	&
-&AB04	&	&	&	&
-&AB05	&	&	&	&
-&AB06	&	&	&	&
-&AB07	&	&	&	&
-&AB08	&	&	&	&
-&AB09	&	&	&	&
-&AB10	&	&	&	&
-
+# SHIFT row	## TODO Add all Greek signs.
+&LSGT	&002F /	&007C |	&005C \	&00AC  	## 002F:Solidus/Slash, 007C:Pipe, 005C:Reverse solidus/Backslash, 00AC:Not-sign. TODO Add not-sign.
+&AB01	&0028 (	&005B [	&007B {	&2713  	## 2713:Checkmark. TODO Add check mark.
+&AB02	&0029 )	&005D ]	&007D }	&2717  	## 2717:Crossmark. TODO Add cross mark.
+&AB03	&0075 u	&0055 U	&03C5  	&03A5  	## Upsilon
+&AB04	&0072 r	&0052 R	&03C1  	&03A1  	## Rho
+&AB05	&007A z	&005A Z	&03B6  	&0396  	## Zeta
+&AB06	&0078 x	&0058 X	&03C7  	&03A7  	## Khi
+&AB07	&0063 c	&0043 C	&03C2  	&00A9 ©	## 03C2:Sigma (final).
+&AB08	&0076 v	&0056 V	&221A  	&2200  	## TODO Add sqrt and forall.  221A:Square-root, 2200:For-all.
+&AB09	&002E .	&002C ,	&00B7 ·	&TODO  	## TODO Empty space
+&AB10	&003A :	&003B ;	&2026  	&2014  	## TODO Add ellipsis and em-dash.  2026:Ellipsis, 2014:Em-dash.
 
