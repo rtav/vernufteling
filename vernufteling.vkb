@@ -1,27 +1,3 @@
-# Anything after # is a comment.
-
-# A vkb file holds a (Linux-compatible) keyboard layout, in an abstract (and
-# optimistic) format. Xkeyboard key codes and Unicode are used throughout.
-
-# A key line holds between one and six fields.
-
-# Fields can be separated by anything, or even nothing. I advise to use tabs.
-# A field always begins with an ampersand character &. To use an & elsewhere,
-# escape it with \&. Likewise, use \#.
-
-# The first field holds the Xkeyboard key code (TLDE, AE01, AE02, ...).
-
-# The other fields are interpreted as Unicode glyphs:
-# The second field holds the base key input.
-# The third field holds the shifted key input.
-# The fourth field holds the AltGr key input.
-# The fifth field holds the shifted AltGr key input.
-# The sixth field holds the long press key input. ('Optimistic', remember?)
-
-# All other input is ignored.
-# Combining characters are shown with a or c, where appropriate.
-
-
 # Numeric row
 &TLDE	&0040 @	&00AE ®	&00B2 ²	&00B3 ³
 &AE01	&003C <	&0031 1	&00AB «	&2039 ‹
