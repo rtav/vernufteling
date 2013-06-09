@@ -13,48 +13,46 @@
 &AE11	&0075 ~	&005E ^	&0303 ã	&0304 ā	## 0303:Tilde, 0304:Macron.
 &AE12	&0024 $	&20AC €	&00A3 £	&00A4 ¤
 
-# TAB row	## TODO Add all Greek signs.
-&AD01	&006B k	&004B K	&03BA  	&039A  	## Kappa
-&AD02	&0067 g	&0047 G	&03B3  	&0393  	## Gamma
-&AD03	&006C l	&004C L	&03BB  	&039B  	## Lambda
-&AD04	&0066 f	&0046 F	&03C6  	&03A6  	## Phi
-&AD05	&0070 p	&0050 P	&03C0  	&03A0  	## Pi
-&AD06	&0062 b	&0042 B	&03B2  	&0392  	## Beta
-&AD07	&006D m	&004D M	&03BC  	&039C  	## Mu
-&AD08	&0061 a	&0041 A	&03B1  	&0391  	## Alpha
-&AD09	&0077 w	&0057 W	&03C9  	&03A9  	## Omega
-&AD10	&0071 q	&0051 Q	&03B8  	&0398  	## Theta
+# TAB row
+&AD01	&006B k	&004B K	&03BA κ	&039A Κ	## Kappa
+&AD02	&0067 g	&0047 G	&03B3 γ	&0393 Γ	## Gamma
+&AD03	&006C l	&004C L	&03BB λ	&039B Λ	## Lambda
+&AD05	&0070 p	&0050 P	&03C0 π	&03A0 Π	## Pi
+&AD06	&0062 b	&0042 B	&03B2 β	&0392 Β	## Beta
+&AD07	&006D m	&004D M	&03BC μ	&039C Μ	## Mu
+&AD08	&0061 a	&0041 A	&03B1 α	&0391 Α	## Alpha
+&AD09	&0077 w	&0057 W	&03C9 ω	&03A9 Ω	## Omega
+&AD10	&0071 q	&0051 Q	&03B8 θ	&0398 Θ	## Theta
 &AD11	&003D =	&2248 ≈	&005F _	&2013 –	## 2248:Approximately, 2013:En-dash.
 &AD12	&002B +	&2212 −	&00B1 ±	&2020 †	## 2212:Minus, 2020:Dagger.
 
-# CAPS LOCK row	## TODO Add all Greek signs.
-&AC01	&0069 i	&0049 I	&03B9  	&0399  	## Iota
-&AC02	&0073 s	&0053 S	&03C3  	&03A3  	## Sigma (non-final)
-&AC03	&0074 t	&0054 T	&03C4  	&03A4  	## Tau
-&AC04	&0068 h	&0048 H	&03B7  	&0397  	## Eta
-&AC05	&0079 y	&0059 Y	&03C8  	&03A8  	## Psi
-&AC06	&006A j	&004A J	&03BE  	&039E  	## Ksi
-&AC07	&0064 d	&0044 D	&03B4  	&0394  	## Delta
-&AC08	&0065 e	&0045 E	&03B5  	&0395  	## Epsilon
-&AC09	&006E n	&004E N	&03BD  	&039D  	## Nu
-&AC10	&006F o	&004F O	&03BF  	&039F  	## Omicron
+# CAPS LOCK row
+&AC01	&0069 i	&0049 I	&03B9 ι	&0399 Ι	## Iota
+&AC02	&0073 s	&0053 S	&03C3 σ	&03A3 Σ	## Sigma (non-final) TODO Is 03A3 correct for capital sigma? Gives Linear B glyph.
+&AC03	&0074 t	&0054 T	&03C4 τ	&03A4 Τ	## Tau
+&AC04	&0068 h	&0048 H	&03B7 η	&0397 Η	## Eta
+&AC05	&0079 y	&0059 Y	&03C8 ψ	&03A8 Ψ	## Psi
+&AC06	&006A j	&004A J	&03BE ξ	&039E Ξ	## Ksi
+&AC07	&0064 d	&0044 D	&03B4 δ	&0394 Δ	## Delta
+&AC08	&0065 e	&0045 E	&03B5 ε	&0395 Ε	## Epsilon
+&AC09	&006E n	&004E N	&03BD  	&039D  	## Nu TODO Both symbol definitions appear void.
+&AC10	&006F o	&004F O	&03BF ο	&039F Ο	## Omicron
 &AC11	&0022 "	&0308 ä	&002D -	&2010 ‐	## 002D:Hyphen-Minus, 2010:Real-Hyphen
-&BKSL	&003F ?	&0021 !	&0345  	&0327 ç	## Or is this AC12? TODO Add iota subscript, 0345:Iota-subscript, 0327:Cedilla
+&BKSL	&003F ?	&0021 !	&0345 ͺ 	&0327 ç	## Or is this AC12? TODO Add iota subscript, 0345:Iota-subscript, 0327:Cedilla
 
-# SHIFT row	## TODO Add all Greek signs.
+# SHIFT row
 &LSGT	&002F /	&007C |	&005C \	&00AC ¬	## 002F:Solidus/Slash, 007C:Pipe, 005C:Reverse solidus/Backslash, 00AC:Not-sign.
 &AB01	&0028 (	&005B [	&007B {	&2713 ✓	## 2713:Checkmark.
 &AB02	&0029 )	&005D ]	&007D }	&2717 ✗	## 2717:Crossmark.
-&AB03	&0075 u	&0055 U	&03C5  	&03A5  	## Upsilon
-&AB04	&0072 r	&0052 R	&03C1  	&03A1  	## Rho
-&AB05	&007A z	&005A Z	&03B6  	&0396  	## Zeta
-&AB06	&0078 x	&0058 X	&03C7  	&03A7  	## Khi
-&AB07	&0063 c	&0043 C	&03C2  	&00A9 ©	## 03C2:Sigma (final).
+&AB03	&0075 u	&0055 U	&03C5 υ	&03A5 Υ	## Upsilon
+&AB04	&0072 r	&0052 R	&03C1 ρ	&03A1 Ρ	## Rho
+&AB05	&007A z	&005A Z	&03B6 ζ	&0396 Ζ	## Zeta
+&AB06	&0078 x	&0058 X	&03C7 χ	&03A7 Χ	## Khi
+&AB07	&0063 c	&0043 C	&03C2 ς	&00A9 ©	## 03C2:Sigma (final).
 &AB08	&0076 v	&0056 V	&221A √	&2200 ∀	## 221A:Square-root, 2200:For-all.
 &AB09	&002E .	&002C ,	&00B7 ·	&2260 ≠	## 2260:Not-equals.
 &AB10	&003A :	&003B ;	&2026 …	&2014 —	## 2026:Ellipsis, 2014:Em-dash.
 
-## TODO Add (double) arrows to (shifted) AltGr + arrow keys.
 # leftarrow &2190 ←
 # rightarrow &2192 →
 # uparrow &2191 ↑
