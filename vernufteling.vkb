@@ -3,7 +3,7 @@
 &AE01	&003C <	&0031 1	&00AB «	&2039 ‹
 &AE02	&003E >	&0032 2	&00BB »	&203A ›
 &AE03	&0060 `	&0033 3	&0300 à	&0314  	## 0314:Dasia.
-&AE04	&0027 '	&0034 4	&TODO ă	&2032 '	## 0027:Apostrophe, TODO:Brevis, 2032:Prime.
+&AE04	&0027 '	&0034 4	&0306 ᾰ	&2032 '	## 0027:Apostrophe, 0306:Breve, 2032:Prime.
 &AE05	&00B4 ´	&0035 5	&0301 á	&0313  	## 00B4:Acute, 0313:Psili.
 &AE06	&2122 ™	&0036 6	&201C “	&2018 ‘
 &AE07	&0023\#	&0037 7	&201D ”	&2019 ’
@@ -28,17 +28,17 @@
 
 # CAPS LOCK row
 &AC01	&0069 i	&0049 I	&03B9 ι	&0399 Ι	## Iota
-&AC02	&0073 s	&0053 S	&03C3 σ	&03A3 Σ	## Sigma (non-final) TODO Is 03A3 correct for capital sigma? Gives Linear B glyph.
+&AC02	&0073 s	&0053 S	&03C3 σ	&03A3 Σ	## Sigma (non-final)
 &AC03	&0074 t	&0054 T	&03C4 τ	&03A4 Τ	## Tau
 &AC04	&0068 h	&0048 H	&03B7 η	&0397 Η	## Eta
 &AC05	&0079 y	&0059 Y	&03C8 ψ	&03A8 Ψ	## Psi
 &AC06	&006A j	&004A J	&03BE ξ	&039E Ξ	## Ksi
 &AC07	&0064 d	&0044 D	&03B4 δ	&0394 Δ	## Delta
 &AC08	&0065 e	&0045 E	&03B5 ε	&0395 Ε	## Epsilon
-&AC09	&006E n	&004E N	&03BD  	&039D  	## Nu TODO Both symbol definitions appear void.
+&AC09	&006E n	&004E N	&03BD ν	&039D Ν	## Nu
 &AC10	&006F o	&004F O	&03BF ο	&039F Ο	## Omicron
 &AC11	&0022 "	&0308 ä	&002D -	&2010 ‐	## 002D:Hyphen-Minus, 2010:Real-Hyphen
-&BKSL	&003F ?	&0021 !	&0345 ͺ 	&0327 ç	## Or is this AC12? TODO Add iota subscript, 0345:Iota-subscript, 0327:Cedilla
+&BKSL	&003F ?	&0021 !	&0345 ᾳ	&0327 ç	## 0345:Combining iota subscript (037A is spacing iota subscript), 0327:Cedilla
 
 # SHIFT row
 &LSGT	&002F /	&007C |	&005C \	&00AC ¬	## 002F:Solidus/Slash, 007C:Pipe, 005C:Reverse solidus/Backslash, 00AC:Not-sign.
