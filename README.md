@@ -18,7 +18,7 @@ I write a lot of
 - Python
 - Clojure
 - LaTeX
-- \*NIX commands
+- Unix-style commands
 
 I also write some
 - Ancient Greek
