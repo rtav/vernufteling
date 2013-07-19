@@ -28,10 +28,10 @@ This keyboard layout strives to be a compromise for those needs.
 # How
 
 Actually, there are many ways to change the keyboard layout, so I
-figure I should create one more. The vkb (*V*irtual *K*eyboard) syntax
-for keyboard layouts is a work-in-progress, and should remain very
-abstract. The idea is to have it be recompiled to another syntax for
-concrete use.
+figure I should create one more. The vkb (__V__irtual
+__K__ey__b__oard) syntax for keyboard layouts is a work-in-progress,
+and should remain very abstract. The idea is to have it be recompiled
+to another syntax for concrete use.
 
 ## VKB
 
