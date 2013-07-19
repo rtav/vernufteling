@@ -61,4 +61,4 @@ Also, the Google search space for the term is empty except for Stevin.
 
 # Caveat lector
 
-Use however you like. No guarantees given whatsoever. Expect volatility.
+Licensed per the MIT License (see LICENSE.md). Expect volatility.
